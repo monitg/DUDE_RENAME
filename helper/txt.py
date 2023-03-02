@@ -3,7 +3,7 @@
 
 class mr(object):
     PROGRESS_BAR = """\n
-╭━━━━❰ Gangster Hacking... ❱━➣
+╭━━━━❰ DEV Hacking... ❱━➣
 ┣⪼ 🗂️ : {1} | {2}
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
@@ -50,9 +50,9 @@ Example:- /set_caption 📕 File Name: {filename}
 
 » 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://www.youtube.com>Watch Tutorial</a>
 
-• 😈 <a href=https://github.com/LazyDeveloperr>LazyDeveloper Github</a>
-• 😈 <a href=https://t.me/LazyDeveloper>LazyDeveloper Tg Channel</a>
-• 😈 <a href=https://t.me/mRiderDM>Direct-Msg-TG</a>
-• 😈 <a href=https://t.me/real_MoviesAdda1>Join Movies Adda</a>
-• 😈 <a href=https://t.me/GitHub_noob>Thanks- Github Noob</a>
+• 😈 <a href=https://github.com>Developer Github</a>
+• 😈 <a href=https://t.me/MD_Bots>MD Bots</a>
+• 😈 <a href=https://t.me/MoviesDude_linkZz>Movies Channel</a>
+• 😈 <a href=https://t.me/MoviesDude_LinkZz>Join Movies</a>
+• 😈 <a href=https://t.me/MD_Support_Group>MD Support group</a>
 """
