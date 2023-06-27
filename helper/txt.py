@@ -52,7 +52,7 @@ Example:- /set_caption 📕 File Name: {filename}
 
 • 😈 <a href=https://github.com>Developer Github</a>
 • 😈 <a href=https://t.me/MD_Bots>MD Bots</a>
-• 😈 <a href=https://t.me/Team_seriersZ>Seriers Channel</a>
+• 😈 <a href=https://t.me/Team_seriesZ>Seriers Channel</a>
 • 😈 <a href=https://t.me/Team_MDL>Join Movies</a>
 • 😈 <a href=https://t.me/MD_Support_Group>MD Support group</a>
 """
