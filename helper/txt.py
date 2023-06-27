@@ -14,7 +14,7 @@ class mr(object):
 ╭───────────⍟
 ├🤖 The Name is : {}
 ├👑 ADMIN-TG : <a href=https://t.me/MD_Bots>MD_Bots</a> 
-├👑 Instagram : <a href=https://www.instagram.com>C-Insta</a> 
+├👑 Movies ADMIN : <a href=https://t.me/Team_MDL>Team_MDL</a> 
 ├📕 LIBRARY : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
 ├💾 DATABASE : <a href=https://cloud.mongodb.com>MongoDB</a>
@@ -41,7 +41,7 @@ Example:- /set_caption 📕 File Name: {filename}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://www.instagram.com>Direct Message</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/MD_TAMILAN_ADMIN_Bot>Direct Message</a>
 """
 
 #⚠️ don't remove our credits 🙏😢😢
@@ -52,7 +52,7 @@ Example:- /set_caption 📕 File Name: {filename}
 
 • 😈 <a href=https://github.com>Developer Github</a>
 • 😈 <a href=https://t.me/MD_Bots>MD Bots</a>
-• 😈 <a href=https://t.me/MoviesDude_linkZz>Movies Channel</a>
-• 😈 <a href=https://t.me/MoviesDude_LinkZz>Join Movies</a>
+• 😈 <a href=https://t.me/Team_seriersZ>Seriers Channel</a>
+• 😈 <a href=https://t.me/Team_MDL>Join Movies</a>
 • 😈 <a href=https://t.me/MD_Support_Group>MD Support group</a>
 """
