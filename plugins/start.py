@@ -24,14 +24,14 @@ async def start(client, message):
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
         ],[
-        InlineKeyboardButton("🙋🏻 How to make this BOT ? ", url='https://www.youtube.com')
+        InlineKeyboardButton("🙋🏻 Movie Finder BOT ? ", url='https://t.me/MD_MovieFinder_Bot')
         ],[
-        InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/MoviesDude_LinkZz')
+        InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/Team_MDL')
         ],[
-        InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://www.youtube.com')
+        InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://t.me/MD_Bots')
         ],[
         InlineKeyboardButton("📝Admin-TG", url='https://t.me/MD_Bots'),
-        InlineKeyboardButton("📝Admin-Insta", url='https://instagram.com')
+        InlineKeyboardButton("📝Message Me Directly", url='https://t.me/MD_TAMILAN_ADMIN_Bot')
         ]
         ])
     if START_PIC:
@@ -83,14 +83,14 @@ async def cb_handler(client, query: CallbackQuery):
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
         ],[
-        InlineKeyboardButton("🙋🏻 How to make this BOT ? ", url='https://www.youtube.com')
+        InlineKeyboardButton("🙋🏻 Movie Finder BOT ? ", url='https://t.me/MD_MovieFinder_Bot')
         ],[
-        InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/MoviesDude_linkZz')
+        InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/Team_MDL')
         ],[
-        InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://www.youtube.com')
+        InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://t.me/MD_Bots')
         ],[
         InlineKeyboardButton("📝Admin-TG", url='https://t.me/MD_Bots'),
-        InlineKeyboardButton("📝Admin-Insta", url='https://instagram.com')
+        InlineKeyboardButton("📝Message Me Directly", url='https://t.me/MD_TAMILAN_ADMIN_Bot')
         ]
         ]
                 )
@@ -100,11 +100,11 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.HELP_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ Contact Admin ❣️", url="https://www.instagram.com")
+               InlineKeyboardButton("❣️ Contact Admin ❣️", url="https://t.me/MD_TAMILAN_ADMIN_Bot")
                ],[
-               InlineKeyboardButton("❤️‍🔥 How to use me ? ❤️‍🔥", url='https://www.youtube.com/')
+               InlineKeyboardButton("❤️‍🔥 Support Group ❤️‍🔥", url='https://t.me/MD_Support_group')
                ],[
-               InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/MoviesDude_linKZz")
+               InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/Team_MDL")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -117,11 +117,11 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ Developer ❣️", url="https://www.instagram.com")
+               InlineKeyboardButton("❣️ Developer ❣️", url="https://t.me/MD_Bots")
                ],[
-               InlineKeyboardButton("❤️‍🔥 How to make me ? ❤️‍🔥", url='https://www.youtube.com')
+               InlineKeyboardButton("❤️‍🔥 Support Group ❤️‍🔥", url='https://t.me/MD_Support_group')
                ],[
-                InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/MoviesDude_LinkZz")
+               InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/Team_MDL")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -133,11 +133,11 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ Developer ❣️", url="https://www.instagram.com")
+               InlineKeyboardButton("❣️ Developer ❣️", url="https://t.me/MD_Bots")
                ],[
-               InlineKeyboardButton("❤️‍🔥 How to make me ? ❤️‍🔥", url='https://www.youtube.com')
+               InlineKeyboardButton("❤️‍🔥 Support Group ❤️‍🔥", url='https://t.me/MD_Support_group')
                ],[
-                InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/MoviesDude_Linkzz")
+               InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/Team_MDL")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
