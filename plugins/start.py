@@ -24,7 +24,7 @@ async def start(client, message):
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
         ],[
-        InlineKeyboardButton("🙋🏻 Movie Finder BOT ? ", url='https://t.me/MD_MovieFinder_Bot')
+        InlineKeyboardButton("🙋🏻 Movie Finder BOT  ", url='https://t.me/MDL_Filter_Bot')
         ],[
         InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/Team_MDL')
         ],[
@@ -83,7 +83,7 @@ async def cb_handler(client, query: CallbackQuery):
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
         ],[
-        InlineKeyboardButton("🙋🏻 Movie Finder BOT ? ", url='https://t.me/MD_MovieFinder_Bot')
+        InlineKeyboardButton("🙋🏻 Movie Finder BOT  ", url='https://t.me/MDL_Filter_Bot')
         ],[
         InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/Team_MDL')
         ],[
