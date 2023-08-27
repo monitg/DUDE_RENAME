@@ -2,7 +2,7 @@ services:
   - type: web
     plan: free
     name: Duderename
-    env: python
+    env: python bot.py
     buildCommand: pip install -r requirements.txt
     startCommand: python3 bot.py
     repo: https://github.com/monitg/DUDE_RENAME.git      
