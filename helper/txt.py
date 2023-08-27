@@ -48,7 +48,6 @@ Example:- /set_caption 📕 File Name: {filename}
     DEV_TXT = """
 <b><u>Special Thanks & Developers</b></u> 
 
-» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://www.youtube.com>Watch Tutorial</a>
 
 • 😈 <a href=https://github.com>Developer Github</a>
 • 😈 <a href=https://t.me/MD_Bots>MD Bots</a>
